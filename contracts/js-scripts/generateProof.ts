@@ -23,7 +23,7 @@ export async function generateProof() {
       // private inputs
       guess_hash: inputArray[0],
       // public inputs
-      answer_hash: inputArray[1],
+      answer_double_hash: inputArray[1],
       address: inputArray[2],
     }
 
