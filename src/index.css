@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: 'Michroma', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: 'kern', 'liga', 'clig', 'calt';
+}
+
+code {
+  font-family: 'JetBrains Mono', 'Fira Code', 'Source Code Pro', Menlo, Monaco,
+    Consolas, 'Courier New', monospace;
+  font-feature-settings: 'calt' off;
+}
